@@ -7,7 +7,7 @@ National Mining University, Dnipropetrovsk
 
 <br>
 
-<h3 align="center">Problems of robotics and artificial intelligence</h3>
+<h3 align="center">Problems of Robotics and Artificial Intelligence</h3>
 <p align="justify">
 Since ancient times, mankind has sought to create mechanical friends for itself. Only at the end of the last century, we managed to get closer to that dream. However, there still remains the problem of artificial intelligence. The difficulty in creating an intelligent machine is the lack of clear understanding of the nature and objective of the thinking process.
 </p>
