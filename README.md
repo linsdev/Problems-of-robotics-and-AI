@@ -32,3 +32,6 @@ The main difficulty of creating full AI is the impossibility of describing the o
 <p align="justify">
 Thus, even after a substantial period of time, mankind will learn to create only a powerful machine, which is not even looking at the possibility of emulating mind, to be far removed from human thinking. In any case, the creating algorithms for logical thinking is very important, because this is our future.
 </p>
+
+[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+</br>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
