@@ -2,7 +2,8 @@
 Nazar Litvin<br>
 A.T. Khar’, research supervisor<br>
 N.M. Nechay, language adviser<br>
-National Technical University Dnipro Polytechnic, Dnipro
+Dnipro University of Technology<br>
+The 9 th International Forum for Students and Young Researchers, April 3-4, 2014, Volume 2<br>
 </i></p>
 
 <br>
@@ -35,7 +36,7 @@ Thus, even after substantial time, mankind will learn to create only a powerful 
 
 <br>
 <p>
-<a href="http://ir.nmu.org.ua/handle/123456789/148664">This article at The Dnipro Polytechnic Repository</a>
+<a href="http://ir.nmu.org.ua/handle/123456789/148664">Published in 2014 by Dnipro University of Technology as part of the collection of abstracts for the 9th International Forum for Students and Young Researchers, held on April 3-4, 2014</a>
 </p>
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
